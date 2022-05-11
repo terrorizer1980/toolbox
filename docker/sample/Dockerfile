@@ -1,4 +1,4 @@
-FROM nginx:latest
+FROM nginx:1.21
 
 MAINTAINER Burak Alparslan "burak@letmetrace.com"
 
