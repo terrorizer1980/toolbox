@@ -1,4 +1,4 @@
-FROM nginx:latest
+FROM nginx:1.21
 
 #workdir dizin degistirmenizi saglar.
 WORKDIR /usr/share/nginx/html
