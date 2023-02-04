@@ -1,5 +1,5 @@
  
-FROM nginx:latest
+FROM nginx:1.23
 
 MAINTAINER Selçuk Akarın "selcuk@gmail.com"
 
