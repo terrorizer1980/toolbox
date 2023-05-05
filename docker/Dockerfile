@@ -1,5 +1,5 @@
  
-FROM nginx:latest
+FROM nginx:1-bullseye
 
 MAINTAINER Selçuk Akarın "selcuk@gmail.com"
 
